@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Quakers charity above ingratitude in answer to a malicious pamphlet entituled The Quakers cruelty presented to the King and Parliament, and subscribed by Thomas Boyce : manifesting the spirit of enmity and madness which works against the truth and seeks to reward those that live in it evil for their good / sent forth in pursuit of the said malicious pamphlet from that people whom he hath grosly abused, who are call'd Quakers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56884</idno>
+            <idno type="STC">Wing Q18</idno>
+            <idno type="STC">ESTC R28164</idno>
+            <idno type="EEBO-CITATION">10440493</idno>
+            <idno type="OCLC">ocm 10440493</idno>
+            <idno type="VID">45030</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56884)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45030)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1388:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Quakers charity above ingratitude in answer to a malicious pamphlet entituled The Quakers cruelty presented to the King and Parliament, and subscribed by Thomas Boyce : manifesting the spirit of enmity and madness which works against the truth and seeks to reward those that live in it evil for their good / sent forth in pursuit of the said malicious pamphlet from that people whom he hath grosly abused, who are call'd Quakers.</title>
+                  <author>Boyce, Thomas. Quakers cruelty, deceit &amp; wickedness, presented to the Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45030:1" rendition="simple:additions"/>
+            <p>THE Quakers Charity ABOVE INGRATITUDE: In Anſwer to a Malicious Pamphlet, ENTITULED, The <hi>Quakers Cruelty</hi> preſented to the <hi>KING</hi> and <hi>PARLIAMENT,</hi> And ſubſcribed by <hi>Thomas Boyce.</hi>
+            </p>
+            <p>Manifeſting the Spirit of Enmity and Madneſs, which works againſt the Truth, and ſeeks to reward thoſe that live in it EVIL for their GOOD.</p>
+            <p>Sent forth in Purſuit of the ſaid Malicious Pamphlet from that People whom he bath groſly abuſed, who are call'd <hi>QUAKERS.</hi>
+            </p>
+            <p>Printed in the Year 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Quaker_pamphlet">
+            <pb facs="tcp:45030:2"/>
+            <pb n="3" facs="tcp:45030:2"/>
+            <head>THE Quakers Charity ABOVE INGRATITUDE, &amp;c.</head>
+            <p>AMongſt the many Enemies that have appeared againſt us and the precious Truth profeſſed by us, whom many of them hath exerciſed a large Meaſure of the Wiſ<g ref="char:EOLhyphen"/>dom of this World; at laſt we have met with one <hi>Thomas Boyce,</hi> who is attempting to ſee what <hi>Folly</hi> and <hi>Diſtraction</hi> will do againſt us (though we doubt not but divers endewed with more <hi>Craft</hi> then himſelf are his Aſſiſtants herein) in which <hi>Folly</hi> and <hi>Diſcompoſure</hi> of <hi>Mind,</hi> he has made a Book called, <hi>The</hi> Qua<g ref="char:EOLhyphen"/>kers <hi>Cruelty,</hi> &amp;c. in which one main Endeavour is, to call the <hi>King</hi> and the <hi>two Houſes of Parliament,</hi> as <hi>Arbitrators</hi> between him and the <hi>Quakers,</hi> which we judge no Man in his <hi>right Senſes</hi> would have done, or if they had it, would have been judged of all Men to be high <hi>Impudence</hi> and <hi>Folly.</hi>
+            </p>
+            <p>And further take notice, That this <hi>Appeal</hi> or <hi>Requeſt</hi> for <hi>Arbi<g ref="char:EOLhyphen"/>tration</hi> is made after the greateſt Endeavours that he could make of executing his own Rage and Enmity upon us by the Laws and inferiour Magiſtrates, and becauſe they appeared to be ſenſible of the <hi>Innocency</hi> of our Cauſe, and of the <hi>Malice</hi> and <hi>Diſcompoſedneſs</hi> of this Complainant, and thereupon found no Cauſe to be Execu<g ref="char:EOLhyphen"/>tioners of his Fury; therefore he reflects upon them, as if they through <hi>falſe Informations</hi> had been drawn aſide from the Line of true Juſtice, and had ſtopt him from his due Proceedings to recover Satisfaction for the great Wrongs and Injuries which he pretends to be done to him.</p>
+            <p>Now that he is a Compoſure of <hi>Madneſs, Malice</hi> and <hi>Folly,</hi> no greater <hi>Certificate</hi> is requiſite to prove, then his own Book, together with his daily Practice both in Meetings and upon the Street, and almoſt where ever he comes, ſometimes <hi>Roaring,</hi> ſometimes <hi>Singing, Striking</hi> People on the Face and Head with his Fiſt, running upon others in the Street, with his Elbows
+<pb n="4" facs="tcp:45030:3"/>punching them in a dangerous Sort, when no Word paſt of either Side, and kicking others on the Belly, and divers other groſs Abu<g ref="char:EOLhyphen"/>ſes, which too many have already felt; and becauſe of this his mad and dangerous Behaviour, ſome People who come to our Meet<g ref="char:EOLhyphen"/>ings have ſometimes endeavoured to lead him out, upon which he has fallen down, &amp; very hideouſly cryed out many Times together, <hi>Marder, Murder,</hi> when no Harm was done nor intended to him by any. As for his Malice, whoever reads his Book, can never be in Doubt of it, eſpecially when they conſider how he hath ſworn the <hi>Peace</hi> againſt ſome, and offered to do it againſt others, who none of them had ever any Thing to do with him, but exhort him to that which is good, admoniſh him of what was Evil, and to ex<g ref="char:EOLhyphen"/>tend their <hi>Charity</hi> to him for the Relief of him &amp; his Family, which are all far contrary to either Acts or Signs of Corporal Harms; his Folly is ſufficiently manifeſted, in that he who ſaith, <hi>He wa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and is Poor,</hi> and knows how largely our Bounty and Charity ex<g ref="char:EOLhyphen"/>tended towards him, as a Perſon in Neceſſity, amounting to about 7. of 8. Shillings a Week for a great while together, beſides ſix Pounds, thirteeen Shillings, four Pence half-peny disburſed to his Relief at ſundry Times by <hi>Walter Miers,</hi> whom he hath ſo ſalſly accuſed; and then four Shillings a Week for a good while after his Recovery, till he manifeſted his Wicked Spirit, for which he was at one of our Meetings, held at <hi>Horſly down,</hi> on the 5th of the 6th Month called <hi>Auguſt,</hi> 74. denyed by us, as having no Fellowſhip with him, until he ſhould come to Repentance, as may be ſeen by our Paper printed in his own Book; and after all this, for him to Imagine, that the <hi>King</hi> and the <hi>two Houſes of Parliament</hi> ſhould concern themſelves with ſuch a Perſon to enquire out the Cauſe of his Diſtemper, is the greateſt Folly of all.</p>
+            <p>Now for the Truth's ſake, we ſhall touch at ſome of the Matters charged by him againſt us, and <hi>firſt</hi> in the 7th Page, wherein he ren<g ref="char:EOLhyphen"/>ders us a People hiding ſuch horrid <hi>Inceſt</hi> as we believed would procure <hi>Death,</hi> and not only ſo, but marrying the Man to a Laſs, who we judged, would prove a <hi>Whore,</hi> which Charge in every Part of it is falſe and wicked, and is from the Father of Lyes, as will appear by the Teſtimonies of thoſe whom he hath falſly ſcandaliz'd, given under their Hands; the Truth of the Caſe is as followeth: A certain young Man in <hi>Southwarke,</hi> Kinſman to the ſaid <hi>Thomas
+<pb n="5" facs="tcp:45030:3"/>Boyce,</hi> being his Brothers Son, came to our Meeting to propound the taking of a young Woman to Wife; certain Friends were ap<g ref="char:EOLhyphen"/>pointed (as is uſual in ſuch Caſes) to enquire of their Clearnes from all others, and of their Converſations, which ſaid Friends met with a Report, that the Young Man ſhould have lain with his Mother; they being poor, and living but in one Room together, we believe had given Ground to the Report, whereupon the Matter was en<g ref="char:EOLhyphen"/>quired farther into, but we never found Juſt Cauſe to believe that they were guilty of <hi>Inceſt</hi> or <hi>
+                  <g ref="char:V">Ʋ</g>ncleaneſs,</hi> nor never did paſs any ſuch Sentence upon them, but after long &amp; deliberate weighing the Matter, the young Man and the young Woman were permitted to take each other in Marriage; and after they were marryed, ſome Strife or Contention ariſing amongſt the Kindred of the young Man, of which we fear this <hi>T. B.</hi> to be a great moving Cauſe; for when ſome Friends were called to hear the Difference, this <hi>Boyce</hi> as he confeſſeth in his Book, pag. 7. ſaid, <hi>She was not his Wife,</hi> upon which, and divers other Manifeſtations of his Evil Ranting Spirit, the Paper afore-mentioned was given out againſt him.</p>
+            <p>So here follow the <hi>Certificates</hi> of the Parties which he mentions.</p>
+            <floatingText xml:lang="eng" rend="italic" type="statement">
+               <body>
+                  <p>WHereas I <hi>Thomas Padley</hi> am accuſed with ſaying, that if the World ſhould know it, to wit, the Woman and her Son being unclean, they would be both hang'd, <hi>p. 7.</hi> This is a deceitful Inſinuation, as if we did conclude they were <g ref="char:V">Ʋ</g>nclean, &amp; ſo lyable to ſuffer, which is falſly ſuggeſted; for we never did declare nor conclude that they were <g ref="char:V">Ʋ</g>nclean, but only I ſpeaking by Way of Suppoſition (in Indignation againſt <g ref="char:V">Ʋ</g>ncleaneſs it ſelf) if they were ſo, and the World ſhould know it, they would ſuffer; and this was upon our Enquiry in Order to prevent Scandal and Reproach from coming upon us, or our Meeting.</p>
+                  <closer>
+                     <signed>Tho. Padley.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" rend="italic" type="statement">
+               <body>
+                  <p>WHereas I <hi>Walter Miers</hi> am accuſed by <hi>T. B.</hi> in the <hi>7th Page</hi> as being chiefly concerned in putting two Perſons together in Marriage; This is an abſolute Falſhood; for I do deny that I was Inſtrumental in bringing them together; for I never ſpake to them about it, nor was any Wayes in the leaſt concerned in it, until that they of themſelves were contracted and agreed, and had declared it in Publick.</p>
+                  <closer>
+                     <signed>W. Miers.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="7" facs="tcp:45030:4"/>
+            <floatingText xml:lang="eng" rend="italic" type="statement">
+               <body>
+                  <p>WHereas <hi>T. Biddle</hi> is accuſed by <hi>T. Boyce</hi> with ſaying, That ſhe, the ſaid Woman, was of a bewitching Spirit, and that he feared ſhe would prove a Whore, ſo that they were willing to let her have a Husband. <hi>Tho. Biddle</hi> doth deny that he ever ſaid that ſhe was of a bewitching Spirit; neither did he ever ſay that he was afraid ſhe would prove a Whore; but doth acknowledge that he did ſay, ſhe had drawn out the Affections of a Servant of his, being an Apprentice, whereby he became Negligent in his Buſineſs, but he dyed in the Time of the great Contagion in <hi>London;</hi> but he doth not charge her with the Cauſe of his Death; theſe Things proceed from the Spirit of Spite and Envy that rules in him, and in this Spirit of <hi>Cain that Murtherer, Guilt &amp; Fear poſſeſſeth him, &amp; that Voice of</hi> Cain is heard, <hi>It ſhall come to paſs that whoſoever ſhall meet me, ſhall ſlay me;</hi> and by this Spirit he hath been led to ſwear, <hi>he went in Danger of his Life becauſe of me,</hi> who never had a Thought in my Mind to hurt him, and cauſed me to be bound over to the Seſſions; when he was asked before the Magiſtrate if he had not forſworn him<g ref="char:EOLhyphen"/>ſelf, he ſaid, <hi>If he had, be it upon him, and if he had, he was but dam<g ref="char:EOLhyphen"/>ned:</hi> I know no other Cauſe on my Part of this his Envy, but becauſe when Contention <hi>and</hi> Difference aroſe between the young-married Perſons, who are his Relations; he being preſent when a Compoſure was endeavoured; in Order to make the Breach wider, he did affirm, as now he ſaith in Print, <hi>pag. 7. that ſhe was not his Wife,</hi> and being reproved for ſpeaking ſo unadviſed and raſh, he produced this Argument to prove what he ſaid, bringing <hi>Solomon</hi>'s Words; <hi>he that finds a Wife finds a good Thing; but ſhe is not good, there<g ref="char:EOLhyphen"/>fore not his Wife;</hi> for this he was judged of me and all preſent, and ever ſince he hath grown worſe and worſe, and encreaſed in Rage and Enmity againſt his beſt Friends, who have endeavoured his Good and Preſervation inwardly and outwardly; herein he hath brought Ven<g ref="char:EOLhyphen"/>geance upon his own Head, and he ſhall bear his own Judgment.</p>
+                  <closer>
+                     <signed>Tho Biddle.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Concerning ſubſcribing to our Form, mentioned</hi> pag. 6.</p>
+            <p>All that he hath ſaid upon this Account we do utterly deny, as being totally falſe and malicious, and do declare, that we did ne<g ref="char:EOLhyphen"/>ver preſcribe any ſuch Form of Words as he hath ſet down, or any other to thoſe who propound their Marriage among us, or thatever we lent any Mony on any ſuch Subſcriptions or Acknowledgments.</p>
+            <pb n="6" facs="tcp:45030:4"/>
+            <p>As to his Charge againſt <hi>Tho. Padly</hi> of ſpeaking about turning him down Stairs, thoſe Words were diſowned by us at that pre<g ref="char:EOLhyphen"/>ſent, and <hi>Tho. Padly</hi> being ſpoken to about it, did forthwith ac<g ref="char:EOLhyphen"/>knowledge that the Word was ſpoken in Haſte, and thereby gave reaſonable Satisfaction in that Matter.</p>
+            <p>And as to what he ſaith relating to <hi>W. Penn,</hi> take the Teſtimony following.</p>
+            <q rend="italic">
+               <p>SInce <hi>Tho. Boyce</hi> has mentioned <hi>W.P.</hi> in his abuſive Pamphl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t who deſerved it not at his Hand, <hi>W. Penn</hi> being enquired of, doth deny that ever he acknowledged that <hi>Tho. Boyce</hi> had been wronged by Friends, that he found him ſo full of Diſtraction mixt with Spight and Envy, that unleſs he had been as diſcompoſed and envious as himſelf, he could not have ſaid what <hi>T.B.</hi> charges upon him; but this W. P. ſaith, he remembers that he exhorted him to be Calm in his Mind, and demean himſelf ſoberly, as became his Pretences, and he with <hi>G. W.</hi> who was by, would endeavour to encline Friends to aſſiſt him, and do him Right in Caſe he were wronged; but this Condi<g ref="char:EOLhyphen"/>tion, to wit, to be ſober and quiet, he tells the World, was againſt his Conſcience, and further ſaith, <hi>That he utterly abhors to bribe a Man to a Thing that is Juſt, much more to ſtop the Mouth of one oppreſſed,</hi> as he pretended to be; and the ſaid <hi>T.B.</hi> complaining of his Poverty, in meer Compaſſion he gave him ten Shillings, but not upon Condition of concealing any Thing, further telling him, that he going under the Name of a <hi>Quaker,</hi> if he did not walk in God's Fear, and be Cool and Quiet, he would furniſh malicious Perſons with Occaſion againſt the Truth, not having any Cauſe of Fear of <hi>T. Hicks</hi> or any elſe, as he falſly inſinuates; neither doth he remem<g ref="char:EOLhyphen"/>ber that he named any Perſons to him, ſince which it doth appear, his Aim was Baſe and Mercinary, and not only that he is under a kind of Diſtraction at Times, as his Neighbours certifie, <hi>p. 10.</hi> of his Book; he continued in a diſtracted Condition for ſome Months, but that he is alſo evidently Hypocritical; for whereas he judged Friends to be fallen from their Integrity, and juſtifies himſelf as one more ſaithful, he has unworthily offered to ſwear the Peace againſt divers peaceable Men that never ſought his Harm, pulling of his Hat to the Juſtice, ſaying, <hi>May it pleaſe you</hi> Sir <hi>to tender me an Oath, pray</hi> Sir <hi>give me my Oath, &amp;c.</hi> taking Advantage at our Contrary
+<pb n="8" facs="tcp:45030:5"/>Practice, hoping thereby to have his Revengeful and Mercinary Ends upon us, and all this becauſe our Friends would not feed him in his Lazyneſs, nor mantain him when he was able to work; nor are we <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>ſenſible who they are that make <g ref="char:V">Ʋ</g>ſe of theſe Slanders and Envy to be<g ref="char:EOLhyphen"/>ſpatter us, which to be ſure doth not become their Pretences to Religion.</p>
+            </q>
+            <p>This ſhort and candid Account of the Matters contained in his malicious Pamphlet, directed to <hi>King</hi> and <hi>Parliament,</hi> we thought meet to give forth for the clearing of the Truth, and the undecei<g ref="char:EOLhyphen"/>ving of any Perſons, whether high or low, who might be in Dan<g ref="char:EOLhyphen"/>ger to believe any of his wicked Inſinuations; and if any notwith<g ref="char:EOLhyphen"/>ſtanding give themſelves over, rather to believe Lyes, then to believe the Truth, when both are preſented to their View, we are clear, and the Evil thereof will redound unto themſelves, and unto thoſe who miniſtred the Occaſion thereof.</p>
+         </div>
+         <div type="afterword">
+            <head>POSTSCRIPT.</head>
+            <p>WHat concerns <hi>T. Boyce</hi> his Turbulent Rude and <hi>Bedlam</hi> like Behaviour, roaring and belching out his <hi>Outrage</hi> in our pub<g ref="char:EOLhyphen"/>lick Aſſemblies, ſignified in the aforeſaid Account, many hundreds can teſtifie the Truth thereof; ſo whether his thirteen Witneſſes teſtifying that he is both an Honeſt Man and a Peaceable Liver where he dwells, will clear him or not, let the Impartial Readers Judge; yet his Neighbours Teſtimony of him, That <hi>he continu<g ref="char:EOLhyphen"/>ed in a diſtracted Condition for ſome Months,</hi> is probable enough.</p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:45030:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
